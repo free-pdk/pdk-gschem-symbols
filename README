@@ -2,3 +2,5 @@ These are schematic symbols for Padauk-µC
 
 They are meant for use with gEDA gschem.
 
+So far, this symbol collection focuses on devices used in f-eval boards and devices well-supported by easypdkprog.
+
